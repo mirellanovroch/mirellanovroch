@@ -26,22 +26,19 @@
 </div>
 
 ## 📊 GitHub Stats:
-
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MirellaNovroch&theme=material-palenight&show_icons=true&hide=stars&hide_title=true&height=160" 
-    alt="Anurag's GitHub stats" 
+    src="https://github-readme-stats.vercel.app/api?username=mirellanovroch&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" 
+    style="height: 160px;" 
+    alt="stats graph" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mirellanovroch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2&height=160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mirellanovroch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" 
+    style="height: 160px;" 
     alt="languages graph" 
   />
-  <br/> <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=MirellaNovroch&theme=material-palenight&hide_border=false" 
-    alt="streak graph" 
-    height="160"
-  />
 </div>
+
 
 <br>
 
