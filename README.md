@@ -2,9 +2,9 @@
 
 <h1 align="left">Olá, Sou a Mirella👋</h1
 
-🔭 Estou iniciando agora no mundo da programação.<br>📚  Em constante aprendizado, explorando e construindo meu conhecimento a cada linha de código.<br>🌱 Atualmente estou estudando lógica de programação e front-end.</p>
+🔭 Estou iniciando agora no mundo da programação.<br>📚  Em constante aprendizado, explorando e construindo meu conhecimento a cada linha de código.</p>
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 <div align="left">
   <a href="https://www.instagram.com/mikanovroch/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -14,18 +14,26 @@
   </a>
 </div>
 
-
-## 💻 Tech Stack:
+## 🚀 Atualmente Aprendendo:
+ 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
 </div>
 
-## 📊 GitHub Stats:
+<br>
+
+🔸 Lógica de programação  
+🔸 Consumo de APIs com JavaScript
+
+
+## 📊 Estatísticas do GitHub:
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mirellanovroch&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" 
